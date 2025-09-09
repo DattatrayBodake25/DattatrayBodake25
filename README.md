@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Dattatray Bodake
-**Data Scientist | AI/ML Enthusiast | Gen AI & NLP Explorer | From India 🇮🇳**
+**Data Scientist | AI/ML Enthusiast | Gen AI & NLP Explorer | From India**
 ---
 - 📧 **Email:** dattatraybodakedb@gmail.com  
 - 📞 **Contact:** 9370148386  
@@ -9,27 +9,6 @@
 ---
 ### 🚀 About Me
 - I’m a **motivated Data Scientist** with 2+ years of hands-on experience in **Machine Learning, NLP, Gen AI, and Large Language Models (LLMs)**. Passionate about building intelligent systems that solve real-world problems using **RAG pipelines, transformers, fine-tuning, and model deployment**.  
----
-### 🔭 I’m currently working on
-- Training & evaluating **Large Language Models (LLMs)** for better accuracy & safety.  
-- Developing **intelligent RAG-based solutions** for knowledge retrieval and domain-specific chatbots.  
----
-### 🌱 I’m currently learning
-- **Advanced LLM fine-tuning** techniques  
-- **MLOps & CI/CD pipelines** for scalable AI deployments  
-- **Vector Databases** and optimized retrieval strategies  
----
-### 👯 I’m looking to collaborate on
-- Open-source **AI/ML projects**  
-- **RAG/Gen AI applications**  
-- AI-driven **chatbots & automation systems**  
----
-### 🤝 I’m looking for help with
-- Scaling **AI applications** on cloud (AWS, Docker, Kubernetes)  
-- Improving **LLM evaluation metrics**
----
-### ⚡ Fun fact  
-- Outside of work, I enjoy **exploring side projects on AI/LLM integration**, experimenting with **cutting-edge Gen AI tools**, and building **mini prototypes** that push the limits of what’s possible with machine learning. 🚀  
 ---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -54,8 +33,27 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DattatrayBodake25&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=DattatrayBodake25&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🔭 I’m currently working on
+- Training & evaluating **Large Language Models (LLMs)** for better accuracy & safety.  
+- Developing **intelligent RAG-based solutions** for knowledge retrieval and domain-specific chatbots.  
+---
+### 🌱 I’m currently learning
+- **Advanced LLM fine-tuning** techniques  
+- **MLOps & CI/CD pipelines** for scalable AI deployments  
+- **Vector Databases** and optimized retrieval strategies  
+---
+### 👯 I’m looking to collaborate on
+- Open-source **AI/ML projects**  
+- **RAG/Gen AI applications**  
+- AI-driven **chatbots & automation systems**  
+---
+### 🤝 I’m looking for help with
+- Scaling **AI applications** on cloud (AWS, Docker, Kubernetes)  
+- Improving **LLM evaluation metrics**
+---
+### ⚡ Fun fact  
+- Outside of work, I enjoy **exploring side projects on AI/LLM integration**, experimenting with **cutting-edge Gen AI tools**, and building **mini prototypes** that push the limits of what’s possible with machine learning. 🚀  
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
