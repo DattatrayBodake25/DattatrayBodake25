@@ -8,8 +8,8 @@
 💻 **GitHub:** [DattatrayBodake25](https://github.com/DattatrayBodake25)  
 ---
 ### 🚀 About Me
-I’m a **motivated Data Scientist** with 2+ years of hands-on experience in **Machine Learning, NLP, Gen AI, and Large Language Models (LLMs)**.  
-Passionate about building intelligent systems that solve real-world problems using **RAG pipelines, transformers, fine-tuning, and model deployment**.  
+- I’m a **motivated Data Scientist** with 2+ years of hands-on experience in **Machine Learning, NLP, Gen AI, and Large Language Models (LLMs)**.  
+- Passionate about building intelligent systems that solve real-world problems using **RAG pipelines, transformers, fine-tuning, and model deployment**.  
 ---
 ### 🔭 I’m currently working on
 - Training & evaluating **Large Language Models (LLMs)** for better accuracy & safety.  
@@ -30,7 +30,7 @@ Passionate about building intelligent systems that solve real-world problems usi
 - Improving **LLM evaluation metrics**
 ---
 ### ⚡ Fun fact  
-Outside of work, I enjoy **exploring side projects on AI/LLM integration**, experimenting with **cutting-edge Gen AI tools**, and building **mini prototypes** that push the limits of what’s possible with machine learning. 🚀  
+- Outside of work, I enjoy **exploring side projects on AI/LLM integration**, experimenting with **cutting-edge Gen AI tools**, and building **mini prototypes** that push the limits of what’s possible with machine learning. 🚀  
 ---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
